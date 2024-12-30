@@ -1,5 +1,5 @@
 #
-##                                                                                     **Diabetics prediction**
+#                                                                                  **Diabetics prediction**
 
 ## **About the Dataset:**
 
